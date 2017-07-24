@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "homepage": "https://github.com/mgorenberg/angular-img-cropper-nonmin",
   "authors": [
-    "Allan Bishop<allan.bishop@gmail.com>"	  
+    "Allan Bishop<allan.bishop@gmail.com>",	  
     "Max Gorenberg"
   ],
   "description": "Client side image cropper directive for AngularJS (rectangular area, aspect ratio, multi-touch)",
