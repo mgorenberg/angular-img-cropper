@@ -18,8 +18,8 @@
   ],
   "license": "MIT",
   "ignore": [
-    "node_modules",
-    "test",
+    	"node_modules",
+    	"test",
 	"package.json",
 	"gruntfile.js",
 	".git",
