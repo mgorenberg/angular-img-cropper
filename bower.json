@@ -1,16 +1,4 @@
 {
 	"name": "angular-img-cropper-nonmin",
-	"version": "2.0.0",
-	"description": "Client side image cropper directive for AngularJS (rectangular area, aspect ratio, multi-touch)",
-	"main": "src/angular-img-cropper.js",
-	"license": "MIT",
-	"ignore": [
-		"node_modules",
-		"test",
-		"package.json",
-		"gruntfile.js",
-		".git",
-		".idea",
-		".txt"
-	]
+	"version": "2.0.0"
 }
